@@ -123,7 +123,7 @@ pip install pandas numpy scikit-learn keras tensorflow
 
 ### Project Structure
 ```
-Project3/
+Project/
 ├── data_5drivers/          # GPS trajectory data (179 CSV files)
 ├── evaluation.py           # Feature extraction and prediction functions
 ├── simple_train.py         # Model training script
