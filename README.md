@@ -130,7 +130,7 @@ Project3/
 ├── validate_data.py        # Data validation and quality checks
 ├── test_model.py          # Model testing utilities
 ├── taxi_driver_model.pkl  # Trained model (generated after training)
-└── README.md              # This file
+└── README.md             
 ```
 
 ## 💻 Usage
